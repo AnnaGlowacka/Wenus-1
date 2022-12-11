@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 1de02b8e295e93f4c976554548d629de
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 33d8ece3017bb394f8c495f35ccac553
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Miasto1A.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/KrawiecA.unity
+    guid: 992869c89392c91408f74a0689cbc190
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/KrawiecB.unity
+    guid: 660afb90db38073448c24c0613a4258f
+  - enabled: 1
+    path: Assets/Scenes/Miasto2A.unity
+    guid: c3d0e6ccba0288643bea8fc229d0fbe1
+  - enabled: 1
+    path: Assets/Scenes/Miasto1B.unity
+    guid: b091b4d1e8cb9f549b553dafc815a98a
+  - enabled: 1
+    path: Assets/Scenes/ZaulekA.unity
+    guid: d41dc22bd02e0b548b405b9dbcc6efdc
+  - enabled: 1
+    path: Assets/Scenes/MGHack.unity
+    guid: 1cb6bcec500a11e4b8e79221ed350ccd
+  - enabled: 1
+    path: Assets/Scenes/ZaulekB.unity
+    guid: 41e4ef547da608347980978dbd21759b
+  - enabled: 1
+    path: Assets/Scenes/Miasto2B.unity
+    guid: 9f30cd2084731c04b85c5618ffb7477e
+  - enabled: 1
+    path: Assets/Scenes/DomFabiaA.unity
+    guid: 24082990fd135484aa69241a9bcc250e
+  - enabled: 1
+    path: Assets/Scenes/MGDialog.unity
+    guid: 398efa2e67b609c43bbfd9b57bc8c226
+  - enabled: 1
+    path: Assets/Scenes/DomFabiaB.unity
+    guid: d890373ab28c55646a1feae1ca2e2137
+  - enabled: 1
+    path: Assets/Scenes/CSProm.unity
+    guid: 36e967fcbf2d5fd4aa58898db9379aaf
+  - enabled: 0
+    path: Assets/Scenes/New Folder/CSBanka.unity
+    guid: e7c73b6e8f3212747b270db20909efe1
+  - enabled: 0
+    path: Assets/Scenes/New Folder/Banka1.unity
+    guid: 4abde8cac45b97f4e9d2bdfb17ffe5d7
+  - enabled: 0
+    path: Assets/Scenes/New Folder/Banka2.unity
+    guid: 375f535d05c5b894c81d66ffca1cfeeb
+  - enabled: 0
+    path: Assets/Scenes/New Folder/Biuro.unity
+    guid: b7a9c2c519e6b004dac47a5abbbd617a
+  - enabled: 0
+    path: Assets/Scenes/New Folder/MGDokument.unity
+    guid: 959af3b43532b35499d6e403daa513b7
+  - enabled: 0
+    path: Assets/Scenes/New Folder/CSSiostra.unity
+    guid: 3fa15c44090960d478ebc75ed40cafff
+  - enabled: 0
+    path: Assets/Scenes/New Folder/CSZiemia.unity
+    guid: e38a170bac14a0245a5366ef34d14083
+  m_configObjects: {}
